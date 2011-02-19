@@ -1,0 +1,366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DailyNotes 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-15 00:14+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Uploaden Sie bitte diese Seite direkt nicht. Danke!"
+
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Artikel ist passwortgeschützt. Geben Sie Ihr Passwort ein um die Kommentare anzuzeigen."
+
+#: ../comments.php:25
+#: ../single.php:28
+#: ../single.php:35
+#: ../single.php:43
+#: ../single.php:59
+#: ../single.php:67
+#: ../single.php:82
+#: ../includes/entry2.php:44
+#: ../includes/entry2.php:63
+#: ../includes/entry2.php:81
+#: ../includes/entry2.php:108
+#: ../includes/entry2.php:135
+#: ../includes/entry2.php:157
+msgid "0 comments"
+msgstr "Keine Kommentare"
+
+#: ../comments.php:25
+#: ../single.php:28
+#: ../single.php:35
+#: ../single.php:43
+#: ../single.php:59
+#: ../single.php:67
+#: ../single.php:82
+#: ../includes/entry2.php:44
+#: ../includes/entry2.php:63
+#: ../includes/entry2.php:81
+#: ../includes/entry2.php:108
+#: ../includes/entry2.php:135
+#: ../includes/entry2.php:157
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: ../comments.php:25
+#: ../single.php:28
+#: ../single.php:35
+#: ../single.php:43
+#: ../single.php:59
+#: ../single.php:67
+#: ../single.php:82
+#: ../includes/entry2.php:44
+#: ../includes/entry2.php:63
+#: ../includes/entry2.php:81
+#: ../includes/entry2.php:108
+#: ../includes/entry2.php:135
+#: ../includes/entry2.php:157
+msgid "comments"
+msgstr "Kommentare"
+
+#: ../comments.php:44
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:70
+msgid "Leave a Reply"
+msgstr "Einen Kommentar schreiben"
+
+#: ../comments.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Einen Kommentar schreiben zu %s"
+
+#: ../comments.php:77
+msgid "You must be"
+msgstr "Du musst"
+
+#: ../comments.php:77
+msgid "logged in"
+msgstr "eingeloggt"
+
+#: ../comments.php:77
+msgid "to post a comment."
+msgstr "sein um einen Kommentar zu schreiben."
+
+#: ../comments.php:81
+msgid "Logged in as"
+msgstr "Angemeldet als"
+
+#: ../comments.php:81
+msgid "Log out &raquo;"
+msgstr "Abmelden &raquo;"
+
+#: ../comments.php:85
+msgid "Name"
+msgstr "Name"
+
+#: ../comments.php:86
+#: ../comments.php:92
+msgid "(required)"
+msgstr "(ben&ouml;tigt)"
+
+#: ../comments.php:91
+msgid "Mail (will not be published)"
+msgstr "Mail (wird nicht ver&ouml;ffentlicht)"
+
+#: ../comments.php:97
+msgid "Website"
+msgstr "Website"
+
+#: ../comments.php:105
+msgid "Submit Comment"
+msgstr "Kommentar absenden"
+
+#: ../header.php:64
+#: ../epanel/custom_functions.php:178
+msgid "Home"
+msgstr "Startseite"
+
+#: ../header.php:77
+msgid "search this site..."
+msgstr "suchen..."
+
+#: ../index.php:82
+#: ../page.php:27
+#: ../single.php:104
+msgid "designed by "
+msgstr "designed by"
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Suchen"
+
+#: ../single.php:28
+#: ../single.php:35
+#: ../single.php:43
+#: ../single.php:59
+#: ../single.php:67
+#: ../single.php:82
+msgid "Posted"
+msgstr "Gepostet"
+
+#: ../single.php:28
+#: ../single.php:35
+#: ../single.php:43
+#: ../single.php:59
+#: ../single.php:67
+#: ../single.php:82
+msgid "by"
+msgstr "von"
+
+#: ../single.php:28
+#: ../single.php:35
+#: ../single.php:43
+#: ../single.php:59
+#: ../single.php:67
+#: ../single.php:82
+msgid "on"
+msgstr "am"
+
+#: ../single.php:28
+#: ../single.php:35
+#: ../single.php:43
+#: ../single.php:59
+#: ../single.php:67
+#: ../single.php:82
+msgid "in"
+msgstr "in"
+
+#: ../includes/entry2.php:46
+#: ../includes/entry2.php:65
+#: ../includes/entry2.php:83
+#: ../includes/entry2.php:110
+#: ../includes/entry2.php:137
+msgid "full post »"
+msgstr "volle Artikel »"
+
+#: ../includes/entry2.php:159
+msgid "visit url »"
+msgstr "verlinken » "
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; &Auml;ltere Eintr&auml;ge"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Neuere Eintr&auml;ge &raquo;"
+
+#: ../includes/no-results.php:2
+msgid "No Results Found"
+msgstr "Nicht gefunden"
+
+#: ../includes/no-results.php:3
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "Keine Seite gefunden. Etwas anderes Suchen?"
+
+#: ../includes/functions/comments.php:14
+msgid "Posted on "
+msgstr "Gepostet am"
+
+#: ../includes/functions/comments.php:14
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: ../includes/functions/comments.php:18
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf die &Uuml;berpr&uuml;fung."
+
+#: ../includes/functions/comments.php:23
+msgid "Reply"
+msgstr "Antworten"
+
+#: ../includes/functions/custom_posts.php:28
+msgid "Add Note"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:29
+msgid "Edit Note"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:30
+msgid "New Note"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:31
+msgid "View Note"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:32
+msgid "Search Note"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:33
+#: ../includes/functions/custom_posts.php:65
+#: ../includes/functions/custom_posts.php:97
+#: ../includes/functions/custom_posts.php:129
+#: ../includes/functions/custom_posts.php:161
+#: ../includes/functions/custom_posts.php:193
+msgid "Nothing found"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:34
+#: ../includes/functions/custom_posts.php:66
+#: ../includes/functions/custom_posts.php:98
+#: ../includes/functions/custom_posts.php:130
+#: ../includes/functions/custom_posts.php:162
+#: ../includes/functions/custom_posts.php:194
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:60
+msgid "Add Photo"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:61
+msgid "Edit Photo"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:62
+msgid "New Photo"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:63
+msgid "View Photo"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:64
+msgid "Search Photo"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:92
+msgid "Add Quote"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:93
+msgid "Edit Quote"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:94
+msgid "New Quote"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:95
+msgid "View Quote"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:96
+msgid "Search Quote"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:124
+msgid "Add Video"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:125
+msgid "Edit Video"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:126
+msgid "New Video"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:127
+msgid "View Video"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:128
+msgid "Search Video"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:156
+msgid "Add Link"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:157
+msgid "Edit Link"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:158
+msgid "New Link"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:159
+msgid "View Link"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:160
+msgid "Search Link"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:188
+msgid "Add Audio"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:189
+msgid "Edit Audio"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:190
+msgid "New Audio"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:191
+msgid "View Audio"
+msgstr ""
+
+#: ../includes/functions/custom_posts.php:192
+msgid "Search Audio"
+msgstr ""
+
