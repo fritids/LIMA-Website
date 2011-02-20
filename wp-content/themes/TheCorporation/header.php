@@ -47,12 +47,14 @@
           <?php }; ?>
 
           <?php if ($category_menu <> '<li>No categories</li>') {
-                  $category_menu = '<li class="cat-item cat-item-4"><a href="">631-647-0POT (0768)</a></li>'.$category_menu;
                   echo($category_menu);
                 }
           ?>
 
-          <?php echo $page_menu; ?>
+          <?php
+                $page_menu = '<li class="page_item page-item-21"><a href="/">631-647-0POT (0768)</a></li>'.$page_menu;
+		echo $page_menu;
+	  ?>
         </ul> <!-- end ul.nav -->
       </div> <!-- end #top-menu -->
 

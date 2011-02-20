@@ -62,7 +62,7 @@ h3 { font-size: 22px; }
 h4 { font-size: 18px; }
 h5 { font-size: 16px; }
 h6 { font-size: 14px; }
-p { padding-bottom: 10px; line-height: 24px; }
+p { padding-bottom: 5px; line-height: 24px; }
 strong { font-weight: bold; color: #1c1c1c; }
 cite, em, i { font-style: italic; }
 pre, code { font-family: Courier New, monospace; margin-bottom: 10px; }
@@ -179,19 +179,19 @@ div#top-menu { float: left; background: url(images/menu_separator.png) top left 
 #featured-area, #pagetop { background-color: #215b87; height: 418px; }
 	#featured-area .container, #pagetop .container { background: url(images/featured-bg.jpg) no-repeat top left; position: relative; }
 		
-		#pagetop { height: 153px; }
-			#pagetop .container { padding: 0px 30px; width: 900px; }
-				#pagetop h1 { font-size: 48px !important; padding: 34px 0px 15px !important; text-transform: none !important; }
+		#pagetop { height: 75px; }
+			#pagetop .container { padding: 0px 10px; width: 900px; }
+				#pagetop h1 { font-size: 48px !important; padding: 10px 0px 10px !important; text-transform: none !important; }
 				#pagetop a { color:#1A3C56; }
 				
-		#breadcrumbs { color: #737272; font-style: italic; font-family: Georgia, sans-serif; padding: 25px 0px; background: #dfdfdf; border-top: 1px solid #fcfcfc; }
+		#breadcrumbs { color: #737272; font-style: italic; font-family: Georgia, sans-serif; padding: 0px 0px; background: #dfdfdf; border-top: 0px solid #fcfcfc; }
 			#breadcrumbs .container { padding-left: 30px; width: 930px; }
 		
 		#header #search-form { position: absolute; bottom: -44px; right: -1px; background: url(images/search-bar.png) no-repeat; height:33px; padding:0px 10px 0 12px; width:170px; z-index:3; display: none; }
 			#header #search-form input { background: none; border: none; font-family:Georgia,serif; font-size:12px; font-style: italic; color: #aad0ef; width: 165px; }
 		
 		.featitem { margin: 42px 90px 0 74px; width: 790px; }
-			h2.feat-heading, #pagetop h1 { font-size: 60px; color: #ffffff; text-shadow: 1px 2px 2px #15588a; padding-bottom: 18px; text-transform: lowercase; }
+			h2.feat-heading, #pagetop h1 { font-size: 60px; color: #ffffff; text-shadow: 1px 2px 2px #15588a; padding-bottom: 18px; }
 			#featured-slider { width: 960px !important; height: 417px; }
 			
 			#featured-slider p.tagline, #pagetop p.tagline { text-transform: uppercase; font-weight: bold; font-size: 14px; color: #1a3c56; text-shadow: 0px 1px 1px #5fa3ce; padding-bottom: 14px; }

@@ -24,6 +24,4 @@
 	</div> <!-- end #services -->
 <?php }; ?>
 
-<?php include(TEMPLATEPATH . '/includes/default.php'); ?>
-
 <?php get_footer(); ?>
